@@ -16,6 +16,7 @@
     }
   },
   "devDependencies": {
-    "request": "^2.53.0"
+    "request": "^2.53.0",
+    "lodash": "^3.6.0"
   }
 }
